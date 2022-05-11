@@ -1,1 +1,1 @@
-# DLT-DigitalTwins
+# SmartTwins
